@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล : บัวชมพู ฤกษ์สุทธิรัตน์
 
-Vercel URL :
+Vercel URL : https://lab08-2567-660610768.vercel.app/
 
 ---
 
